@@ -11,7 +11,7 @@ on:
   # Run on push to the main/master branch
   push:
     branches:
-      - master # Or main, depending on your default branch name
+      - main # Or main, depending on your default branch name
 
 jobs:
   generate:

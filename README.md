@@ -14,11 +14,13 @@
   You are my ![Visitor Count](https://profile-counter.glitch.me/xxMudCloudxx/count.svg)th visitor
 
   ---
-
+  <!-- 贪吃蛇 -->
+  
+  ![](https://raw.githubusercontent.com/xxMudCloudxx//xxMudCloudxx/main/assets/github-contribution-grid-snake.svg)
   ---
 
   ### Skills
-
+  
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,flutter,html,css,javascript,typescript,react,ubuntu" />
@@ -26,14 +28,14 @@
   </p>
 
 
-  ---
+---
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=xxMudCloudxx&abbreviated=true&color=yellow" />
     <a href="https://github.com/xxMudCloudxx"><img src="https://img.shields.io/badge/GitHub-xxMudCloudxx-blue?logo=github" /></a>
     </p>
 
-  ---
+---
 
   ### About My Github
   <div align="center">
@@ -51,10 +53,15 @@
     </table>
   </div>
 
-  ---
+---
 
   ### 📊 WakaTime
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xxMudCloudxx&theme=transparent&hide_border=true&layout=compact&langs_count=10&range=last_30_days" />
+  <!--START_SECTION:waka--> 
+  ---
+
+
+
+<!--END_SECTION:waka-->
   ---
 
   ### Future
