@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at a specific time, e.g., every day at midnight UTC (adjust cron as needed)
-    - cron: '0 0 * * *' # Example: Runs daily at midnight UTC. The example used '30 18 * * *'
+    - cron: "0 0 * * *" # Example: Runs daily at midnight UTC. The example used '30 18 * * *'
   workflow_dispatch: # Allows manual run
 
 jobs:
@@ -20,29 +20,3 @@ jobs:
           # e.g., SHOW_PROJECTS, SHOW_PROFILE_VIEWS, etc.
           # The example README had a more detailed WakaTime output, which might require additional flags
           # or rely on the default behavior of the action to insert between and ```
-
-**3. Setup Instructions:**
-
-1.  **Create the Repository:** Go to GitHub and create a new **public** repository named `xxMudCloudxx`. (It *must* be public and named exactly like your username).
-2.  **Add `README.md`:** Add the `README.md` content provided above into a file named `README.md` in the root of this new repository. Customize the placeholders (your blog link, skills, any personal blurbs).
-3.  **Create Workflow Files:**
-    * In the `xxMudCloudxx` repository, create the directory path `.github/workflows/`.
-    * Inside `workflows`, create the `snake_generate.yml` file with the content above.
-    * Inside `workflows`, create the `wakatime.yml` file with the content above.
-4.  **Configure Secrets (Crucial for WakaTime):**
-    * Go to your `xxMudCloudxx/xxMudCloudxx` repository on GitHub.
-    * Click on "Settings" > "Secrets and variables" > "Actions".
-    * Click "New repository secret".
-    * **For `WAKATIME_API_KEY`**:
-        * Name: `WAKATIME_API_KEY`
-        * Value: Paste your WakaTime API Key. You can get this from your WakaTime account settings page.
-    * The `GITHUB_TOKEN` is automatically created by GitHub for use in workflows, so you typically don't need to add it manually as a secret if you use `secrets.GITHUB_TOKEN`. The `permissions` key in `snake_generate.yml` and the `GH_TOKEN` input in `wakatime.yml` will utilize this. Ensure your repository settings allow GitHub Actions to create and approve pull requests or write to the repository if needed by the actions (the `contents: write` permission for the snake action and the `GH_TOKEN` for the WakaTime action cover this).
-5.  **Enable GitHub Actions:** If they aren't enabled by default for your account/repository, ensure they are enabled in the repository's "Actions" settings.
-6.  **Trigger Actions:**
-    * The actions will run on the schedule you've set.
-    * You can also trigger them manually by going to the "Actions" tab in your repository, selecting the workflow, and clicking "Run workflow".
-    * The `snake_generate.yml` will also run on a push to your main branch.
-7.  **Uncomment Snake Image in README:** After the `snake_generate` action has run successfully for the first time, it will create an `output` branch with the `github-contribution-grid-snake.svg` file. You can then uncomment the `<img>` tag in your `README.md` that points to this SVG.
-8.  **WakaTime Section:** The `wakatime.yml` action will automatically update the section between `` and `` in your `README.md`.
-
-By following these steps, you'll have a dynamic and informative GitHub profile README for `xxMudCloudxx`! Remember to customize the content to best represent yourself.
