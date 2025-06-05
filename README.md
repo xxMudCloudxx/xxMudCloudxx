@@ -56,11 +56,81 @@
 ---
 
   ### 📊 WakaTime
-  <!--START_SECTION:waka--> 
-  ---
+  <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 41 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 20 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+🌆 Daytime                54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+🌃 Evening                136 commits         ████████████░░░░░░░░░░░░░   48.75 % 
+🌙 Night                  83 commits          ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Wednesday                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Saturday                 56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Sunday                   66 commits          ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               9 hrs 35 mins       ███████████████████████░░   93.16 % 
+JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 17 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+lowcode-editor           9 hrs 31 mins       ███████████████████████░░   92.44 % 
+LeetCode                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+lowcode-demo-backend     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Front-End                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+
+💻 Operating System: 
+Windows                  10 hrs 17 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Rust** 
+
+```text
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+```
 
 
 
+
+ Last Updated on 05/06/2025 18:55:06 UTC
 <!--END_SECTION:waka-->
   ---
 
