@@ -2,7 +2,7 @@
 
   <div align="center">
     <div>
-      <a href="YOUR_BLOG_OR_PROFILE_LINK_HERE"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);WWelcome+to+my+GitHub+profile!&center=true&size=27" />
+      <a href="YOUR_BLOG_OR_PROFILE_LINK_HERE"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);Welcome+to+my+GitHub!&center=true&size=27" />
       </a>
     </div>
   </div>
