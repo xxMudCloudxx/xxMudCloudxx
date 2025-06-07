@@ -16,7 +16,7 @@
   ---
   <!-- 贪吃蛇 -->
   
-  ![](https://raw.githubusercontent.com/xxMudCloudxx//xxMudCloudxx/main/assets/github-contribution-grid-snake.svg)
+  ![](https://raw.githubusercontent.com/xxMudCloudxx/xxMudCloudxx/refs/heads/output/github-contribution-grid-snake.svg)
   ---
 
   ### Skills
