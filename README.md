@@ -57,13 +57,15 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,21 +76,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-🌆 Daytime                63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-🌃 Evening                147 commits         ████████████░░░░░░░░░░░░░   47.88 % 
-🌙 Night                  91 commits          ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+🌆 Daytime                63 commits          █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌃 Evening                147 commits         ████████████░░░░░░░░░░░░░   47.57 % 
+🌙 Night                  93 commits          ████████░░░░░░░░░░░░░░░░░   30.10 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Tuesday                  37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Wednesday                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-Saturday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-Sunday                   80 commits          ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Monday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Wednesday                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Saturday                 68 commits          ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Sunday                   80 commits          ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
 ```
 
 
@@ -98,23 +100,24 @@ Sunday                   80 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 47 mins      ███████████████████████░░   92.15 % 
-YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               13 hrs 3 mins       ███████████████████████░░   92.02 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           10 hrs 50 mins      ███████████████████████░░   92.63 % 
-xxMudCloudxx             44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-lowcode-demo-backend     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Front-End                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+lowcode-editor           13 hrs 9 mins       ███████████████████████░░   92.71 % 
+xxMudCloudxx             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+blog-demo                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Front-End                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+lowcode-demo-backend     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  11 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -130,7 +133,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2025 18:49:49 UTC
+ Last Updated on 09/06/2025 18:50:59 UTC
 <!--END_SECTION:waka-->
   ---
 
