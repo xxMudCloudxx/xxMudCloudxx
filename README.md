@@ -57,15 +57,15 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-103-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 71 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,24 +100,24 @@ Sunday                   80 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 3 mins       ███████████████████████░░   92.02 % 
-YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+TypeScript               13 hrs 3 mins       ███████████████████████░░   91.26 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           13 hrs 9 mins       ███████████████████████░░   92.71 % 
-xxMudCloudxx             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+lowcode-editor           13 hrs 15 mins      ███████████████████████░░   92.71 % 
+xxMudCloudxx             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 blog-demo                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 Front-End                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-lowcode-demo-backend     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+lowcode-demo-backend     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  14 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -133,7 +133,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 18:50:59 UTC
+ Last Updated on 10/06/2025 18:52:23 UTC
 <!--END_SECTION:waka-->
   ---
 
