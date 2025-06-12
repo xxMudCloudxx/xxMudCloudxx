@@ -98,24 +98,24 @@ Sunday                   80 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 26 mins      ███████████████████████░░   90.20 % 
-YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               9 hrs 21 mins       ██████████████████████░░░   88.28 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           11 hrs 40 mins      ███████████████████████░░   92.05 % 
-xxMudCloudxx             44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-blog-demo                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-lowcode-demo-backend     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Front-End                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+lowcode-editor           9 hrs 36 mins       ███████████████████████░░   90.63 % 
+xxMudCloudxx             44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+blog-demo                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+lowcode-demo-backend     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Front-End                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Windows                  12 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -131,7 +131,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2025 18:52:42 UTC
+ Last Updated on 12/06/2025 18:52:01 UTC
 <!--END_SECTION:waka-->
   ---
 
