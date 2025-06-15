@@ -57,15 +57,13 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 🏆 75 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,23 +98,23 @@ Sunday                   80 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 45 mins       ███████████████████████░░   90.51 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               4 hrs 16 mins       ████████████████████░░░░░   81.49 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           6 hrs 4 mins        ████████████████████████░   95.54 % 
-blog-demo                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-LeetCode                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-Front-End                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+lowcode-editor           4 hrs 52 mins       ███████████████████████░░   92.76 % 
+blog-demo                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+LeetCode                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Front-End                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -132,7 +130,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 18:49:58 UTC
+ Last Updated on 15/06/2025 18:48:47 UTC
 <!--END_SECTION:waka-->
   ---
 
