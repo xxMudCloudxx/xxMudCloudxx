@@ -57,7 +57,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-107-blue)
 
@@ -74,21 +74,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-🌆 Daytime                63 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-🌃 Evening                150 commits         ████████████░░░░░░░░░░░░░   47.32 % 
-🌙 Night                  98 commits          ████████░░░░░░░░░░░░░░░░░   30.91 % 
+🌞 Morning                6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+🌆 Daytime                75 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+🌃 Evening                172 commits         ████████████░░░░░░░░░░░░░   47.25 % 
+🌙 Night                  111 commits         ████████░░░░░░░░░░░░░░░░░   30.49 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Tuesday                  39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Wednesday                30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Thursday                 32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Saturday                 73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Sunday                   80 commits          ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Thursday                 39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Saturday                 87 commits          ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Sunday                   95 commits          ███████░░░░░░░░░░░░░░░░░░   26.10 % 
 ```
 
 
@@ -98,22 +98,23 @@ Sunday                   80 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 31 mins        ████████████████░░░░░░░░░   64.15 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Git Config               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-C++                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+TypeScript               6 hrs 47 mins       ██████████████████████░░░   86.91 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+C++                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           2 hrs 9 mins        ███████████████████████░░   91.14 % 
-LeetCode                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-blog-demo                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+lowcode-editor           7 hrs 36 mins       ████████████████████████░   97.30 % 
+LeetCode                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+blog-demo                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -129,7 +130,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 18:52:57 UTC
+ Last Updated on 18/06/2025 18:52:42 UTC
 <!--END_SECTION:waka-->
   ---
 
