@@ -65,6 +65,8 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
+> 🏆 94 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -98,24 +100,23 @@ Sunday                   113 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 37 mins       ██████████████████████░░░   87.54 % 
-C#                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-XML                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               4 hrs 34 mins       █████████████████████░░░░   82.92 % 
+C#                       27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+XML                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           8 hrs 54 mins       ███████████████████████░░   90.34 % 
-FULANDER-ADVENTURE       43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-27956                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-LeetCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+lowcode-editor           4 hrs 34 mins       █████████████████████░░░░   82.93 % 
+FULANDER-ADVENTURE       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+27956                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  9 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -131,7 +132,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2025 18:52:50 UTC
+ Last Updated on 25/06/2025 18:53:31 UTC
 <!--END_SECTION:waka-->
   ---
 
