@@ -57,7 +57,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,23 +98,22 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 12 mins      ██████████████████████░░░   89.55 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               9 hrs 51 mins       ██████████████████████░░░   87.23 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           11 hrs 56 mins      ████████████████████████░   95.42 % 
-Front-End                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-blog-demo                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+lowcode-editor           10 hrs 46 mins      ████████████████████████░   95.26 % 
+Front-End                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+blog-demo                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Windows                  12 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -130,7 +129,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2025 18:49:33 UTC
+ Last Updated on 30/06/2025 18:52:50 UTC
 <!--END_SECTION:waka-->
   ---
 
