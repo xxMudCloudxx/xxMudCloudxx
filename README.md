@@ -65,6 +65,8 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
+> 🏆 120 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -98,23 +100,23 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 51 mins       ██████████████████████░░░   86.49 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+TypeScript               9 hrs 51 mins       ██████████████████████░░░   86.66 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           10 hrs 46 mins      ████████████████████████░   94.46 % 
-Front-End                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+lowcode-editor           10 hrs 46 mins      ████████████████████████░   94.64 % 
+Front-End                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 electricity-monitor      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-blog-demo                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+blog-demo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  11 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -130,7 +132,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/07/2025 18:52:43 UTC
+ Last Updated on 03/07/2025 18:52:10 UTC
 <!--END_SECTION:waka-->
   ---
 
