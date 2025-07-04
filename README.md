@@ -100,9 +100,9 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 51 mins       ██████████████████████░░░   86.66 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TypeScript               9 hrs 51 mins       ██████████████████████░░░   86.77 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
@@ -110,10 +110,9 @@ JSON                     7 mins              ░░░░░░░░░░░�
 VS Code                  11 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           10 hrs 46 mins      ████████████████████████░   94.64 % 
-Front-End                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+lowcode-editor           10 hrs 46 mins      ████████████████████████░   94.75 % 
+Front-End                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 electricity-monitor      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-blog-demo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
 Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
@@ -132,7 +131,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2025 18:52:10 UTC
+ Last Updated on 04/07/2025 18:50:34 UTC
 <!--END_SECTION:waka-->
   ---
 
