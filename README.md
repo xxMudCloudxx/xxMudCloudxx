@@ -100,22 +100,20 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 51 mins       ██████████████████████░░░   86.77 % 
-CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+TypeScript               3 hrs 42 mins       ███████████████████████░░   93.26 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           10 hrs 46 mins      ████████████████████████░   94.75 % 
-Front-End                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-electricity-monitor      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+lowcode-editor           3 hrs 52 mins       ████████████████████████░   97.59 % 
+electricity-monitor      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-Windows                  11 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -131,7 +129,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2025 18:50:34 UTC
+ Last Updated on 05/07/2025 18:48:40 UTC
 <!--END_SECTION:waka-->
   ---
 
