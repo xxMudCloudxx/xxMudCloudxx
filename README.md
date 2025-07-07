@@ -100,20 +100,17 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 42 mins       ███████████████████████░░   93.26 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   4 mins              ████████████████████░░░░░   81.00 % 
+YAML                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           3 hrs 52 mins       ████████████████████████░   97.59 % 
-electricity-monitor      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+electricity-monitor      5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -129,7 +126,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2025 18:48:40 UTC
+ Last Updated on 07/07/2025 18:53:14 UTC
 <!--END_SECTION:waka-->
   ---
 
