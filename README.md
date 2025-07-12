@@ -57,15 +57,13 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 🏆 120 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,16 +98,21 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     22 mins             █████████░░░░░░░░░░░░░░░░   37.36 % 
+Docker                   22 mins             █████████░░░░░░░░░░░░░░░░   36.84 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+project-1-jupyter        58 mins             ████████████████████████░   95.85 % 
+27956                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -125,7 +128,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2025 18:53:23 UTC
+ Last Updated on 12/07/2025 18:50:40 UTC
 <!--END_SECTION:waka-->
   ---
 
