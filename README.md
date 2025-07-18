@@ -65,8 +65,6 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 120 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -100,21 +98,20 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     51 mins             ████████░░░░░░░░░░░░░░░░░   31.44 % 
-Docker                   47 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+YAML                     28 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Docker                   25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Text                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-1-jupyter        2 hrs 41 mins       █████████████████████████   98.45 % 
-27956                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+project-1-jupyter        1 hr 42 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -130,7 +127,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2025 18:56:23 UTC
+ Last Updated on 18/07/2025 18:54:42 UTC
 <!--END_SECTION:waka-->
   ---
 
