@@ -57,7 +57,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,20 +98,22 @@ Sunday                   117 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     28 mins             ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Docker                   25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Text                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+YAML                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+Docker                   25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Markdown                 20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-project-1-jupyter        1 hr 42 mins        █████████████████████████   100.00 % 
+project-1-jupyter        1 hr 42 mins        ███████████████████████░░   93.15 % 
+LeetCode                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -127,7 +129,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2025 18:52:27 UTC
+ Last Updated on 21/07/2025 18:56:30 UTC
 <!--END_SECTION:waka-->
   ---
 
