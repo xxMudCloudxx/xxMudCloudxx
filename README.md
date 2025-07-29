@@ -98,22 +98,22 @@ Sunday                   154 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               29 hrs 15 mins      ████████████████████████░   95.62 % 
-Markdown                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               28 hrs 46 mins      ████████████████████████░   96.95 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           30 hrs 30 mins      █████████████████████████   99.70 % 
-27956                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+lowcode-editor           29 hrs 35 mins      █████████████████████████   99.72 % 
+27956                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 blog-demo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  30 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -129,7 +129,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 18:57:23 UTC
+ Last Updated on 29/07/2025 18:58:33 UTC
 <!--END_SECTION:waka-->
   ---
 
