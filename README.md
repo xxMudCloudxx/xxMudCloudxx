@@ -57,13 +57,15 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 172 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,24 +100,24 @@ Sunday                   154 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               23 hrs 16 mins      ████████████████████████░   95.56 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
-HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               22 hrs 20 mins      ████████████████████████░   95.25 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+HTML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 33 mins      ██████████████████████░░░   88.51 % 
-Trae                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+VS Code                  20 hrs 28 mins      ██████████████████████░░░   87.27 % 
+Trae                     2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           24 hrs 11 mins      █████████████████████████   99.29 % 
-2D-Learning              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-27956                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+lowcode-editor           23 hrs 17 mins      █████████████████████████   99.26 % 
+2D-Learning              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+27956                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 blog-demo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -131,7 +133,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 18:57:25 UTC
+ Last Updated on 01/08/2025 18:56:32 UTC
 <!--END_SECTION:waka-->
   ---
 
