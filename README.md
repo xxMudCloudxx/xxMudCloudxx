@@ -57,7 +57,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -100,25 +100,25 @@ Sunday                   157 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 16 mins      ████████████████████████░   95.75 % 
-HTML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-C#                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               13 hrs 32 mins      ████████████████████████░   94.79 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 1 min        ██████████████████░░░░░░░   72.25 % 
-Trae                     3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+VS Code                  12 hrs 16 mins      █████████████████████░░░░   85.95 % 
+Trae                     2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           13 hrs 26 mins      ████████████████████████░   96.93 % 
-waster-sort              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-WasteSorting             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-2D-Learning              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-music-dashboard          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+lowcode-editor           11 hrs 41 mins      ████████████████████░░░░░   81.83 % 
+duolingo                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+waster-sort              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+WasteSorting             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+27956                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-Windows                  13 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +134,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2025 18:59:45 UTC
+ Last Updated on 06/08/2025 18:57:00 UTC
 <!--END_SECTION:waka-->
   ---
 
