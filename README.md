@@ -59,13 +59,11 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 🏆 201 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,21 +74,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-🌆 Daytime                111 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-🌃 Evening                251 commits         ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌙 Night                  233 commits         █████████░░░░░░░░░░░░░░░░   37.64 % 
+🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+🌆 Daytime                112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+🌃 Evening                252 commits         ██████████░░░░░░░░░░░░░░░   40.51 % 
+🌙 Night                  234 commits         █████████░░░░░░░░░░░░░░░░   37.62 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Wednesday                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Thursday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Sunday                   157 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Wednesday                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Thursday                 70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Friday                   67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Saturday                 142 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Sunday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
 ```
 
 
@@ -100,25 +98,25 @@ Sunday                   157 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 1 min        ███████████████████████░░   92.14 % 
-Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               14 hrs 31 mins      ███████████████████████░░   92.70 % 
+Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 52 mins      █████████████████░░░░░░░░   66.74 % 
-Trae                     5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+VS Code                  10 hrs 23 mins      █████████████████░░░░░░░░   66.28 % 
+Trae                     5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
 
 🐱‍💻 Projects: 
-duolingo                 11 hrs 16 mins      █████████████████░░░░░░░░   69.14 % 
-lowcode-editor           4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
-waster-sort              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-WasteSorting             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-27956                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+duolingo                 11 hrs 16 mins      ██████████████████░░░░░░░   71.92 % 
+lowcode-editor           4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+waster-sort              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+27956                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+music-dashboard          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  16 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +132,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2025 18:52:26 UTC
+ Last Updated on 10/08/2025 18:51:22 UTC
 <!--END_SECTION:waka-->
   ---
 
