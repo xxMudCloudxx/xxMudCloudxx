@@ -57,13 +57,15 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 204 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,25 +100,24 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 31 mins      ███████████████████████░░   92.70 % 
-Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               15 hrs 25 mins      ████████████████████████░   94.11 % 
+Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 23 mins      █████████████████░░░░░░░░   66.28 % 
-Trae                     5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
+VS Code                  11 hrs 6 mins       █████████████████░░░░░░░░   67.75 % 
+Trae                     5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.25 % 
 
 🐱‍💻 Projects: 
-duolingo                 11 hrs 16 mins      ██████████████████░░░░░░░   71.92 % 
-lowcode-editor           4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-waster-sort              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-27956                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-music-dashboard          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+duolingo                 12 hrs 5 mins       ██████████████████░░░░░░░   73.78 % 
+lowcode-editor           4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+27956                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+music-dashboard          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  15 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +133,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2025 18:51:22 UTC
+ Last Updated on 11/08/2025 18:56:30 UTC
 <!--END_SECTION:waka-->
   ---
 
