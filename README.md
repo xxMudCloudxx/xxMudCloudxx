@@ -57,13 +57,15 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,23 +100,23 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 31 mins      ███████████████████████░░   92.98 % 
-Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-CSS                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               13 hrs 19 mins      ████████████████████████░   95.84 % 
+Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 45 mins       ██████████████░░░░░░░░░░░   57.57 % 
-Trae                     5 hrs 42 mins       ███████████░░░░░░░░░░░░░░   42.43 % 
+Trae                     7 hrs 1 min         █████████████░░░░░░░░░░░░   50.55 % 
+VS Code                  6 hrs 52 mins       ████████████░░░░░░░░░░░░░   49.45 % 
 
 🐱‍💻 Projects: 
-duolingo                 13 hrs 14 mins      █████████████████████████   98.31 % 
-lowcode-editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-27956                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+duolingo                 13 hrs 45 mins      █████████████████████████   98.94 % 
+lowcode-editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  13 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +132,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2025 18:55:09 UTC
+ Last Updated on 13/08/2025 18:53:35 UTC
 <!--END_SECTION:waka-->
   ---
 
