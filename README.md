@@ -65,7 +65,7 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 205 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,23 +100,23 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 19 mins      ████████████████████████░   95.84 % 
-Image (svg)              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               12 hrs 21 mins      ████████████████████████░   95.80 % 
+Image (svg)              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Trae                     7 hrs 1 min         █████████████░░░░░░░░░░░░   50.55 % 
-VS Code                  6 hrs 52 mins       ████████████░░░░░░░░░░░░░   49.45 % 
+Trae                     7 hrs 1 min         ██████████████░░░░░░░░░░░   54.50 % 
+VS Code                  5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
 
 🐱‍💻 Projects: 
-duolingo                 13 hrs 45 mins      █████████████████████████   98.94 % 
-lowcode-editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+duolingo                 12 hrs 45 mins      █████████████████████████   98.86 % 
+lowcode-editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  13 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +132,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2025 18:53:35 UTC
+ Last Updated on 14/08/2025 18:55:05 UTC
 <!--END_SECTION:waka-->
   ---
 
