@@ -100,23 +100,23 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 21 mins      ████████████████████████░   95.80 % 
-Image (svg)              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               10 hrs 21 mins      ████████████████████████░   96.96 % 
+Image (svg)              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Trae                     7 hrs 1 min         ██████████████░░░░░░░░░░░   54.50 % 
-VS Code                  5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
+Trae                     7 hrs 1 min         ████████████████░░░░░░░░░   65.87 % 
+VS Code                  3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.13 % 
 
 🐱‍💻 Projects: 
-duolingo                 12 hrs 45 mins      █████████████████████████   98.86 % 
-lowcode-editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+duolingo                 10 hrs 31 mins      █████████████████████████   98.65 % 
+lowcode-editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +132,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2025 18:55:05 UTC
+ Last Updated on 15/08/2025 18:53:37 UTC
 <!--END_SECTION:waka-->
   ---
 
