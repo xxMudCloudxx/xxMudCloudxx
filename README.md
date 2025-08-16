@@ -65,8 +65,6 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 205 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -100,23 +98,19 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 21 mins      ████████████████████████░   96.96 % 
-Image (svg)              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               4 hrs 48 mins       █████████████████████████   99.86 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Trae                     7 hrs 1 min         ████████████████░░░░░░░░░   65.87 % 
-VS Code                  3 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.13 % 
+Trae                     2 hrs 28 mins       █████████████░░░░░░░░░░░░   51.36 % 
+VS Code                  2 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.64 % 
 
 🐱‍💻 Projects: 
-duolingo                 10 hrs 31 mins      █████████████████████████   98.65 % 
-lowcode-editor           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+duolingo                 4 hrs 40 mins       ████████████████████████░   97.22 % 
+lowcode-editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 💻 Operating System: 
-Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -132,7 +126,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 18:53:37 UTC
+ Last Updated on 16/08/2025 18:49:38 UTC
 <!--END_SECTION:waka-->
   ---
 
