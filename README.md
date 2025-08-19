@@ -65,8 +65,6 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 205 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -100,18 +98,17 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 51 mins       █████████████████████████   99.82 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               2 hrs 42 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Trae                     2 hrs 28 mins       ████████████████░░░░░░░░░   64.07 % 
-VS Code                  1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   35.93 % 
+VS Code                  1 hr 23 mins        █████████████░░░░░░░░░░░░   51.31 % 
+Trae                     1 hr 18 mins        ████████████░░░░░░░░░░░░░   48.69 % 
 
 🐱‍💻 Projects: 
-duolingo                 3 hrs 51 mins       █████████████████████████   100.00 % 
+duolingo                 2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,7 +124,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2025 18:55:11 UTC
+ Last Updated on 19/08/2025 18:50:56 UTC
 <!--END_SECTION:waka-->
   ---
 
