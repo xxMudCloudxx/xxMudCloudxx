@@ -57,7 +57,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -65,7 +65,7 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 230 Contributions in the Year 2025
+> 🏆 233 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,21 +76,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-🌆 Daytime                118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-🌃 Evening                268 commits         ██████████░░░░░░░░░░░░░░░   41.36 % 
-🌙 Night                  238 commits         █████████░░░░░░░░░░░░░░░░   36.73 % 
+🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+🌆 Daytime                118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+🌃 Evening                269 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
+🌙 Night                  240 commits         █████████░░░░░░░░░░░░░░░░   36.87 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Friday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Saturday                 142 commits         █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
-Sunday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Friday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Saturday                 145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Sunday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 ```
 
 
@@ -100,22 +100,22 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 33 mins      ████████████████████████░   97.44 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TypeScript               28 hrs 10 mins      ███████████████████████░░   93.91 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Bash                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 45 mins       ███████████████░░░░░░░░░░   58.61 % 
-Trae                     6 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
+VS Code                  15 hrs 21 mins      █████████████░░░░░░░░░░░░   51.18 % 
+Trae                     14 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.82 % 
 
 🐱‍💻 Projects: 
-duolingo                 14 hrs 49 mins      █████████████████████████   99.21 % 
-lingo-early-access       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+duolingo                 29 hrs 53 mins      █████████████████████████   99.61 % 
+lingo-early-access       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Windows                  14 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +131,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 18:50:31 UTC
+ Last Updated on 24/08/2025 18:48:37 UTC
 <!--END_SECTION:waka-->
   ---
 
