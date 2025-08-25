@@ -57,15 +57,13 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 🏆 233 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,21 +74,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-🌆 Daytime                118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-🌃 Evening                269 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
-🌙 Night                  240 commits         █████████░░░░░░░░░░░░░░░░   36.87 % 
+🌞 Morning                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+🌆 Daytime                118 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+🌃 Evening                269 commits         ██████████░░░░░░░░░░░░░░░   41.19 % 
+🌙 Night                  242 commits         █████████░░░░░░░░░░░░░░░░   37.06 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Friday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Saturday                 145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Sunday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Monday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Tuesday                  70 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Saturday                 145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Sunday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
 ```
 
 
@@ -131,7 +129,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2025 18:48:37 UTC
+ Last Updated on 25/08/2025 18:52:22 UTC
 <!--END_SECTION:waka-->
   ---
 
