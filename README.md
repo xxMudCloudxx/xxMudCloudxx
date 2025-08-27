@@ -57,15 +57,13 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 🏆 238 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,21 +74,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-🌆 Daytime                118 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-🌃 Evening                270 commits         ██████████░░░░░░░░░░░░░░░   41.16 % 
-🌙 Night                  243 commits         █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+🌆 Daytime                142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+🌃 Evening                317 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
+🌙 Night                  289 commits         █████████░░░░░░░░░░░░░░░░   37.19 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Tuesday                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Wednesday                60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Thursday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Friday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Saturday                 145 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Sunday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Sunday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
 ```
 
 
@@ -100,22 +98,22 @@ Sunday                   158 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               31 hrs 23 mins      ███████████████████████░░   93.93 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+TypeScript               31 hrs 14 mins      ███████████████████████░░   93.70 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 46 mins      ██████████████░░░░░░░░░░░   56.17 % 
-Trae                     14 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.83 % 
+VS Code                  18 hrs 41 mins      ██████████████░░░░░░░░░░░   56.06 % 
+Trae                     14 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.94 % 
 
 🐱‍💻 Projects: 
-duolingo                 33 hrs 18 mins      █████████████████████████   99.65 % 
+duolingo                 33 hrs 13 mins      █████████████████████████   99.65 % 
 lingo-early-access       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 💻 Operating System: 
-Windows                  33 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +129,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2025 18:50:01 UTC
+ Last Updated on 27/08/2025 18:48:56 UTC
 <!--END_SECTION:waka-->
   ---
 
