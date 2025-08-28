@@ -57,7 +57,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -98,22 +98,22 @@ Sunday                   160 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               31 hrs 14 mins      ███████████████████████░░   93.70 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Bash                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               30 hrs 15 mins      ███████████████████████░░   92.17 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 41 mins      ██████████████░░░░░░░░░░░   56.06 % 
-Trae                     14 hrs 38 mins      ███████████░░░░░░░░░░░░░░   43.94 % 
+VS Code                  17 hrs 38 mins      █████████████░░░░░░░░░░░░   53.73 % 
+Trae                     15 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.27 % 
 
 🐱‍💻 Projects: 
-duolingo                 33 hrs 13 mins      █████████████████████████   99.65 % 
-lingo-early-access       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+duolingo                 32 hrs 46 mins      █████████████████████████   99.86 % 
+lingo-early-access       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  33 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +129,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 18:48:56 UTC
+ Last Updated on 28/08/2025 18:50:38 UTC
 <!--END_SECTION:waka-->
   ---
 
