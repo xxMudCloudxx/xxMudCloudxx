@@ -57,13 +57,13 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2014%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 251 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,51 +71,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-🌆 Daytime                142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌃 Evening                317 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌙 Night                  289 commits         █████████░░░░░░░░░░░░░░░░   37.19 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Sunday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               30 hrs 15 mins      ███████████████████████░░   92.17 % 
-Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-🔥 Editors: 
-VS Code                  17 hrs 38 mins      █████████████░░░░░░░░░░░░   53.73 % 
-Trae                     15 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.27 % 
-
-🐱‍💻 Projects: 
-duolingo                 32 hrs 46 mins      █████████████████████████   99.86 % 
-lingo-early-access       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-💻 Operating System: 
-Windows                  32 hrs 49 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -129,7 +84,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2025 18:50:38 UTC
+ Last Updated on 30/08/2025 18:46:15 UTC
 <!--END_SECTION:waka-->
   ---
 
