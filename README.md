@@ -65,7 +65,7 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 251 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,24 +100,24 @@ Sunday                   160 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 24 mins      ████████████████████░░░░░   81.11 % 
-JavaScript               1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+TypeScript               7 hrs 11 mins       ███████████████████░░░░░░   76.38 % 
+JavaScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 19 mins      ██████████████████████░░░   88.21 % 
-Trae                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+VS Code                  7 hrs 53 mins       █████████████████████░░░░   83.93 % 
+Trae                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 
 🐱‍💻 Projects: 
-duolingo                 10 hrs 16 mins      ████████████████████░░░░░   80.07 % 
-react-3d-tshirt-design   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Threejs                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-react-threejs-app        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+duolingo                 6 hrs 51 mins       ██████████████████░░░░░░░   72.83 % 
+react-3d-tshirt-design   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Threejs                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+react-threejs-app        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 💻 Operating System: 
-Windows                  12 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +133,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2025 18:48:17 UTC
+ Last Updated on 02/09/2025 18:48:34 UTC
 <!--END_SECTION:waka-->
   ---
 
