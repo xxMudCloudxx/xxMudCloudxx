@@ -57,7 +57,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -65,7 +65,7 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 251 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,24 +100,25 @@ Sunday                   160 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 hrs 11 mins       ███████████████████░░░░░░   76.38 % 
-JavaScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-CSS                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+TypeScript               5 hrs 35 mins       ██████████████░░░░░░░░░░░   55.87 % 
+C#                       2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+JavaScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 53 mins       █████████████████████░░░░   83.93 % 
-Trae                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+VS Code                  8 hrs 25 mins       █████████████████████░░░░   84.25 % 
+Trae                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 
 🐱‍💻 Projects: 
-duolingo                 6 hrs 51 mins       ██████████████████░░░░░░░   72.83 % 
-react-3d-tshirt-design   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Threejs                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-react-threejs-app        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+duolingo                 5 hrs 10 mins       █████████████░░░░░░░░░░░░   51.82 % 
+Unscrew-Puzzle-Game      1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+react-3d-tshirt-design   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Threejs                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+react-threejs-app        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 💻 Operating System: 
-Windows                  9 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +134,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2025 18:48:34 UTC
+ Last Updated on 03/09/2025 18:46:50 UTC
 <!--END_SECTION:waka-->
   ---
 
