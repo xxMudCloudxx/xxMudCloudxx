@@ -65,32 +65,32 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 251 Contributions in the Year 2025
+> 🏆 254 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 12 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-🌆 Daytime                142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌃 Evening                317 commits         ██████████░░░░░░░░░░░░░░░   40.80 % 
-🌙 Night                  289 commits         █████████░░░░░░░░░░░░░░░░   37.19 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+🌆 Daytime                142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+🌃 Evening                319 commits         ██████████░░░░░░░░░░░░░░░   40.95 % 
+🌙 Night                  289 commits         █████████░░░░░░░░░░░░░░░░   37.10 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Sunday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Sunday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 ```
 
 
@@ -100,25 +100,24 @@ Sunday                   160 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 35 mins       ██████████████░░░░░░░░░░░   55.87 % 
-C#                       2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-JavaScript               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+C#                       2 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.71 % 
+JavaScript               1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+TypeScript               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████░░░░   84.25 % 
-Trae                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+VS Code                  4 hrs 46 mins       █████████████████████████   98.72 % 
+Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🐱‍💻 Projects: 
-duolingo                 5 hrs 10 mins       █████████████░░░░░░░░░░░░   51.82 % 
-Unscrew-Puzzle-Game      1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-react-3d-tshirt-design   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Threejs                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-react-threejs-app        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Unscrew-Puzzle-Game      1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
+react-3d-tshirt-design   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Threejs                  44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+react-threejs-app        41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Unknown Project          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 💻 Operating System: 
-Windows                  9 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -134,7 +133,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2025 18:46:50 UTC
+ Last Updated on 04/09/2025 18:48:42 UTC
 <!--END_SECTION:waka-->
   ---
 
