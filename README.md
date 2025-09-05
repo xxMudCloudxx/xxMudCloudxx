@@ -11,7 +11,8 @@
 
   ### Hello World!  I am <b>xxMudCloudxx</b>
 
-  You are my ![Visitor Count](https://profile-counter.glitch.me/xxMudCloudxx/count.svg)th visitor
+  visit times:  
+  ![visit times](https://komarev.com/ghpvc/?username=xxMudCloudxx&color=blueviolet)
 
   ---
   <!-- 贪吃蛇 -->
