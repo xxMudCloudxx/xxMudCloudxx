@@ -11,9 +11,6 @@
 
   ### Hello World!  I am <b>xxMudCloudxx</b>
 
-  visit times:  
-  ![visit times](https://komarev.com/ghpvc/?username=xxMudCloudxx&color=blueviolet)
-
   ---
   <!-- 贪吃蛇 -->
   
