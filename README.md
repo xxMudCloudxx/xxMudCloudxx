@@ -55,40 +55,38 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 2.1 MB Used in GitHub's Storage 
- > 
-> 🏆 254 Contributions in the Year 2025
+> 📦 2.2 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-🌆 Daytime                142 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-🌃 Evening                319 commits         ██████████░░░░░░░░░░░░░░░   40.95 % 
-🌙 Night                  289 commits         █████████░░░░░░░░░░░░░░░░   37.10 % 
+🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+🌆 Daytime                145 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌃 Evening                300 commits         ██████████░░░░░░░░░░░░░░░   39.06 % 
+🌙 Night                  294 commits         ██████████░░░░░░░░░░░░░░░   38.28 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Friday                   116 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Saturday                 151 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Sunday                   160 commits         █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Monday                   65 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Thursday                 102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Friday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Saturday                 137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Sunday                   163 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
 ```
 
 
@@ -98,24 +96,25 @@ Sunday                   160 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       2 hrs 15 mins       ████████████░░░░░░░░░░░░░   46.71 % 
-JavaScript               1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-TypeScript               1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+C#                       4 hrs 3 mins        ████████████████░░░░░░░░░   63.39 % 
+JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+TypeScript               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   98.72 % 
-Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+VS Code                  6 hrs 20 mins       █████████████████████████   99.03 % 
+Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🐱‍💻 Projects: 
-Unscrew-Puzzle-Game      1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
-react-3d-tshirt-design   1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Threejs                  44 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-react-threejs-app        41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Unknown Project          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Unscrew-Puzzle-Game      3 hrs 45 mins       ███████████████░░░░░░░░░░   58.56 % 
+react-3d-tshirt-design   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+react-threejs-app        41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Threejs                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,14 +123,14 @@ Windows                  4 hrs 50 mins       ███████████�
 JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 04/09/2025 18:48:42 UTC
+ Last Updated on 05/09/2025 18:47:27 UTC
 <!--END_SECTION:waka-->
   ---
 
