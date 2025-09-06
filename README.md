@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -96,25 +96,25 @@ Sunday                   163 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       4 hrs 3 mins        ████████████████░░░░░░░░░   63.39 % 
-JavaScript               1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-TypeScript               1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+C#                       6 hrs 30 mins       ██████████████████░░░░░░░   73.10 % 
+JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+TypeScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 20 mins       █████████████████████████   99.03 % 
-Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+VS Code                  8 hrs 50 mins       █████████████████████████   99.30 % 
+Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-Unscrew-Puzzle-Game      3 hrs 45 mins       ███████████████░░░░░░░░░░   58.56 % 
-react-3d-tshirt-design   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-react-threejs-app        41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Threejs                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Unscrew-Puzzle-Game      6 hrs 14 mins       ██████████████████░░░░░░░   70.19 % 
+react-3d-tshirt-design   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+react-threejs-app        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Threejs                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 💻 Operating System: 
-Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +130,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 18:47:27 UTC
+ Last Updated on 06/09/2025 18:44:17 UTC
 <!--END_SECTION:waka-->
   ---
 
