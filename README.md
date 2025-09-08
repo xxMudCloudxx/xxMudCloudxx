@@ -57,11 +57,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 245 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,25 +98,22 @@ Sunday                   163 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       6 hrs 30 mins       ██████████████████░░░░░░░   73.10 % 
-JavaScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-TypeScript               1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+C#                       6 hrs 30 mins       █████████████████████████   98.51 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 50 mins       █████████████████████████   99.30 % 
-Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  6 hrs 32 mins       █████████████████████████   99.06 % 
+Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🐱‍💻 Projects: 
-Unscrew-Puzzle-Game      6 hrs 14 mins       ██████████████████░░░░░░░   70.19 % 
-react-3d-tshirt-design   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-react-threejs-app        41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Threejs                  29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Unscrew-Puzzle-Game      6 hrs 14 mins       ████████████████████████░   94.59 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  8 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -130,7 +129,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 18:44:17 UTC
+ Last Updated on 08/09/2025 18:49:16 UTC
 <!--END_SECTION:waka-->
   ---
 
