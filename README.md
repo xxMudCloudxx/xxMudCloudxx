@@ -57,11 +57,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 245 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,22 +98,19 @@ Sunday                   163 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       6 hrs 30 mins       █████████████████████████   98.51 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C#                       4 hrs 15 mins       ████████████████████████░   97.74 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 32 mins       █████████████████████████   99.06 % 
-Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unscrew-Puzzle-Game      6 hrs 14 mins       ████████████████████████░   94.59 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-27956                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Unscrew-Puzzle-Game      4 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -127,7 +126,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2025 18:46:37 UTC
+ Last Updated on 10/09/2025 18:49:15 UTC
 <!--END_SECTION:waka-->
   ---
 
