@@ -63,6 +63,8 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
+> 🏆 245 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -96,19 +98,17 @@ Sunday                   163 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       4 hrs 15 mins       ████████████████████████░   97.74 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C#                       2 hrs 26 mins       ████████████████████████░   97.99 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unscrew-Puzzle-Game      4 hrs 21 mins       █████████████████████████   100.00 % 
+Unscrew-Puzzle-Game      2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +124,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 18:47:00 UTC
+ Last Updated on 12/09/2025 18:45:23 UTC
 <!--END_SECTION:waka-->
   ---
 
