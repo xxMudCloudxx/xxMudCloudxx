@@ -63,8 +63,6 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 245 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -98,17 +96,16 @@ Sunday                   163 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       2 hrs 26 mins       ████████████████████████░   97.99 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unscrew-Puzzle-Game      2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +121,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2025 18:45:23 UTC
+ Last Updated on 13/09/2025 18:43:16 UTC
 <!--END_SECTION:waka-->
   ---
 
