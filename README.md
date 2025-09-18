@@ -63,11 +63,11 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 254 Contributions in the Year 2025
+> 🏆 256 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -75,20 +75,20 @@
 
 ```text
 🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-🌆 Daytime                170 commits         █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-🌃 Evening                344 commits         █████████░░░░░░░░░░░░░░░░   37.39 % 
-🌙 Night                  362 commits         ██████████░░░░░░░░░░░░░░░   39.35 % 
+🌆 Daytime                171 commits         █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+🌃 Evening                344 commits         █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌙 Night                  362 commits         ██████████░░░░░░░░░░░░░░░   39.31 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Tuesday                  100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Wednesday                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Sunday                   209 commits         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
+Monday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Tuesday                  100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Wednesday                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Thursday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Sunday                   209 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
 ```
 
 
@@ -111,20 +111,20 @@ lowcode-editor           2 hrs 59 mins       ███████████�
 Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Python** 
 
 ```text
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Python                   3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 17/09/2025 18:49:16 UTC
+ Last Updated on 18/09/2025 18:50:35 UTC
 <!--END_SECTION:waka-->
   ---
 
