@@ -55,13 +55,15 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 257 Contributions in the Year 2025
+> 🏆 258 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,20 +71,60 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                44 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+🌆 Daytime                172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+🌃 Evening                344 commits         █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 Night                  362 commits         ██████████░░░░░░░░░░░░░░░   39.26 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Tuesday                  100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Wednesday                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Thursday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Saturday                 165 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+Sunday                   210 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               2 hrs 59 mins       █████████████████████████   99.87 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+lowcode-editor           2 hrs 59 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Verilog                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 20/09/2025 18:44:13 UTC
+ Last Updated on 21/09/2025 18:46:25 UTC
 <!--END_SECTION:waka-->
   ---
 
