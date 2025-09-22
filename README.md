@@ -98,17 +98,17 @@ Sunday                   210 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 59 mins       █████████████████████████   99.87 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               36 mins             █████████████████████████   99.39 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           2 hrs 59 mins       █████████████████████████   100.00 % 
+lowcode-editor           36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +124,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 18:46:25 UTC
+ Last Updated on 22/09/2025 18:49:10 UTC
 <!--END_SECTION:waka-->
   ---
 
