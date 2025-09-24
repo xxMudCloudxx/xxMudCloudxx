@@ -55,7 +55,9 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2025%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +84,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2025 18:50:29 UTC
+ Last Updated on 24/09/2025 18:48:11 UTC
 <!--END_SECTION:waka-->
   ---
 
