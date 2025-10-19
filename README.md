@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,20 +98,21 @@ Sunday                   117 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               33 mins             █████████████████████░░░░   85.20 % 
-Bash                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+TypeScript               1 hr 51 mins        ██████████████████████░░░   86.13 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-duolingo                 29 mins             ███████████████████░░░░░░   74.86 % 
-lowcode-editor           9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+lowcode-editor           1 hr 40 mins        ███████████████████░░░░░░   77.26 % 
+duolingo                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
 
 💻 Operating System: 
-Windows                  39 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,7 +128,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2025 18:45:58 UTC
+ Last Updated on 19/10/2025 18:46:36 UTC
 <!--END_SECTION:waka-->
   ---
 
