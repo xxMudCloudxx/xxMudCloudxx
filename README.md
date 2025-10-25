@@ -98,21 +98,19 @@ Sunday                   117 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 51 mins        ██████████████████████░░░   86.13 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               1 hr 18 mins        ██████████████████████░░░   86.56 % 
+JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           1 hr 40 mins        ███████████████████░░░░░░   77.26 % 
-duolingo                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+lowcode-editor           1 hr 30 mins        █████████████████████████   99.79 % 
+duolingo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +126,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2025 18:51:24 UTC
+ Last Updated on 25/10/2025 18:47:29 UTC
 <!--END_SECTION:waka-->
   ---
 
