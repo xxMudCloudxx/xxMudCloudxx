@@ -55,9 +55,9 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -98,19 +98,17 @@ Sunday                   117 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ██████████████████████░░░   86.56 % 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+TypeScript               1 hr 28 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           1 hr 30 mins        █████████████████████████   99.79 % 
-duolingo                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+duolingo                 1 hr 28 mins        █████████████████████████   99.81 % 
+lowcode-editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -126,7 +124,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2025 18:47:29 UTC
+ Last Updated on 26/10/2025 18:48:04 UTC
 <!--END_SECTION:waka-->
   ---
 
