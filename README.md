@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -98,17 +98,18 @@ Sunday                   117 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 28 mins        █████████████████████████   100.00 % 
+TypeScript               1 hr 45 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-duolingo                 1 hr 28 mins        █████████████████████████   99.81 % 
-lowcode-editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+duolingo                 1 hr 28 mins        █████████████████████░░░░   83.65 % 
+lowcode-engine           17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+lowcode-editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +125,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2025 18:48:04 UTC
+ Last Updated on 27/10/2025 18:51:31 UTC
 <!--END_SECTION:waka-->
   ---
 
