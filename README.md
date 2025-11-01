@@ -55,15 +55,13 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 259 Contributions in the Year 2025
+> 🏆 283 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,48 +69,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-🌆 Daytime                136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-🌃 Evening                281 commits         █████████░░░░░░░░░░░░░░░░   36.78 % 
-🌙 Night                  305 commits         ██████████░░░░░░░░░░░░░░░   39.92 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Tuesday                  85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Wednesday                102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Thursday                 96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Friday                   129 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-Saturday                 114 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Sunday                   159 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               6 hrs 4 mins        █████████████████████████   99.13 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-lowcode-editor           4 hrs 22 mins       ██████████████████░░░░░░░   71.30 % 
-duolingo                 1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-lowcode-engine           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-
-💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -126,7 +82,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 18:51:16 UTC
+ Last Updated on 01/11/2025 18:45:56 UTC
 <!--END_SECTION:waka-->
   ---
 
