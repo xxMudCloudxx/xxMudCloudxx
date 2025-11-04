@@ -55,6 +55,8 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs%2033%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
@@ -69,6 +71,50 @@
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+🌆 Daytime                137 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+🌃 Evening                292 commits         █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌙 Night                  338 commits         ██████████░░░░░░░░░░░░░░░   41.78 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Tuesday                  85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Wednesday                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Saturday                 118 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Sunday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               19 hrs 19 mins      ███████████████████████░░   92.47 % 
+Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 53 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+lowcode-editor           19 hrs 58 mins      ████████████████████████░   95.61 % 
+my-lowcode-project       55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+
+💻 Operating System: 
+Windows                  20 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -82,7 +128,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:48:29 UTC
+ Last Updated on 04/11/2025 18:51:35 UTC
 <!--END_SECTION:waka-->
   ---
 
