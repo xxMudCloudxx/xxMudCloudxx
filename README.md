@@ -55,15 +55,13 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2023%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 309 Contributions in the Year 2025
+> 🏆 312 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,51 +69,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-🌆 Daytime                139 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-🌃 Evening                296 commits         █████████░░░░░░░░░░░░░░░░   35.92 % 
-🌙 Night                  347 commits         ███████████░░░░░░░░░░░░░░   42.11 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Tuesday                  92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Wednesday                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Saturday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Sunday                   185 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               3 hrs 18 mins       ████████████████████░░░░░   81.08 % 
-Markdown                 31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-big-data                 2 hrs 31 mins       ███████████████░░░░░░░░░░   61.81 % 
-lowcode-editor           1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   36.52 % 
-my-lowcode-project       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-💻 Operating System: 
-Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -129,7 +82,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:47:57 UTC
+ Last Updated on 16/11/2025 18:48:20 UTC
 <!--END_SECTION:waka-->
   ---
 
