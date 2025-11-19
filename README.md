@@ -63,7 +63,7 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 314 Contributions in the Year 2025
+> 🏆 317 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,21 +74,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-🌆 Daytime                140 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-🌃 Evening                296 commits         █████████░░░░░░░░░░░░░░░░   35.71 % 
-🌙 Night                  351 commits         ███████████░░░░░░░░░░░░░░   42.34 % 
+🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+🌆 Daytime                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+🌃 Evening                296 commits         █████████░░░░░░░░░░░░░░░░   35.58 % 
+🌙 Night                  351 commits         ███████████░░░░░░░░░░░░░░   42.19 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Wednesday                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Saturday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Sunday                   188 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Tuesday                  97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Wednesday                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Saturday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Sunday                   188 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
 ```
 
 
@@ -98,25 +98,24 @@ Sunday                   188 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 29 mins      ████████████████████████░   94.80 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               9 hrs 30 mins       ████████████████████████░   95.94 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 58 mins      █████████████████████████   98.84 % 
-Trae                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+VS Code                  9 hrs 45 mins       █████████████████████████   98.58 % 
+Trae                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           9 hrs 5 mins        ███████████████████░░░░░░   75.01 % 
-big-data                 2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-duolingo                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-my-lowcode-project       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-nextjs-i18n-docs         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+lowcode-editor           9 hrs 23 mins       ████████████████████████░   94.89 % 
+duolingo                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+my-lowcode-project       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+nextjs-i18n-docs         9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Windows                  12 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,7 +131,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2025 18:52:04 UTC
+ Last Updated on 19/11/2025 18:50:50 UTC
 <!--END_SECTION:waka-->
   ---
 
