@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,21 +98,22 @@ Sunday                   188 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 58 mins        ████████████████░░░░░░░░░   64.75 % 
-Python                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Protocol Buffer          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+TypeScript               2 hrs 9 mins        █████████████████░░░░░░░░   66.30 % 
+Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Protocol Buffer          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           1 hr 58 mins        ████████████████░░░░░░░░░   64.75 % 
-EasyRec                  1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.25 % 
+lowcode-editor           1 hr 39 mins        █████████████░░░░░░░░░░░░   51.04 % 
+EasyRec                  1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   33.67 % 
+big-data                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +129,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2025 18:52:27 UTC
+ Last Updated on 27/11/2025 18:50:45 UTC
 <!--END_SECTION:waka-->
   ---
 
