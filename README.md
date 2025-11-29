@@ -63,7 +63,7 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 319 Contributions in the Year 2025
+> 🏆 321 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,21 +74,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-🌆 Daytime                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-🌃 Evening                296 commits         █████████░░░░░░░░░░░░░░░░   35.49 % 
-🌙 Night                  351 commits         ███████████░░░░░░░░░░░░░░   42.09 % 
+🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+🌆 Daytime                145 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+🌃 Evening                298 commits         █████████░░░░░░░░░░░░░░░░   35.65 % 
+🌙 Night                  351 commits         ██████████░░░░░░░░░░░░░░░   41.99 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Wednesday                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Saturday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sunday                   188 commits         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Monday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Tuesday                  99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Wednesday                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 122 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Sunday                   188 commits         ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
 ```
 
 
@@ -98,22 +98,21 @@ Sunday                   188 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 9 mins        █████████████████░░░░░░░░   66.30 % 
-Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Protocol Buffer          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+TypeScript               29 mins             ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Python                   26 mins             ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Markdown                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Protocol Buffer          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           1 hr 39 mins        █████████████░░░░░░░░░░░░   51.04 % 
-EasyRec                  1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   33.67 % 
-big-data                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+EasyRec                  1 hr 5 mins         █████████████████░░░░░░░░   68.77 % 
+big-data                 29 mins             ████████░░░░░░░░░░░░░░░░░   31.23 % 
 
 💻 Operating System: 
-Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +128,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/11/2025 18:50:45 UTC
+ Last Updated on 29/11/2025 18:50:05 UTC
 <!--END_SECTION:waka-->
   ---
 
