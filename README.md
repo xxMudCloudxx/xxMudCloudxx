@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,22 +98,20 @@ Sunday                   248 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               33 mins             ████████████████████████░   95.71 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               1 hr 1 min          ████████████████████████░   96.25 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  31 mins             ███████████████████████░░   90.08 % 
-Antigravity              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+VS Code                  43 mins             █████████████████░░░░░░░░   68.69 % 
+Antigravity              19 mins             ████████░░░░░░░░░░░░░░░░░   31.31 % 
 
 🐱‍💻 Projects: 
-big-data                 33 mins             ████████████████████████░   95.86 % 
-EasyRec                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+lowcode-editor           32 mins             █████████████░░░░░░░░░░░░   51.28 % 
+big-data                 30 mins             ████████████░░░░░░░░░░░░░   48.72 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +127,7 @@ Verilog                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 18:58:02 UTC
+ Last Updated on 03/12/2025 18:56:15 UTC
 <!--END_SECTION:waka-->
   ---
 
