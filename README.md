@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,23 +98,23 @@ Sunday                   422 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 39 mins      ████████████████████░░░░░   80.30 % 
-CSS                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Python                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+TypeScript               15 hrs 36 mins      ████████████████████░░░░░   78.92 % 
+CSS                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Antigravity              10 hrs 6 mins       ███████████████████░░░░░░   76.17 % 
-VS Code                  3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Antigravity              16 hrs 37 mins      █████████████████████░░░░   84.02 % 
+VS Code                  3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           9 hrs 39 mins       ██████████████████░░░░░░░   72.85 % 
-big-data                 2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-openCV                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+lowcode-editor           16 hrs 10 mins      ████████████████████░░░░░   81.79 % 
+big-data                 2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+openCV                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
-Windows                  13 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 18:53:43 UTC
+ Last Updated on 09/12/2025 18:53:55 UTC
 <!--END_SECTION:waka-->
   ---
 
