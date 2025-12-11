@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -63,32 +63,32 @@
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 372 Contributions in the Year 2025
+> 🏆 400 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-🌆 Daytime                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-🌃 Evening                510 commits         ████████░░░░░░░░░░░░░░░░░   32.61 % 
-🌙 Night                  692 commits         ███████████░░░░░░░░░░░░░░   44.25 % 
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+🌆 Daytime                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+🌃 Evening                524 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌙 Night                  705 commits         ███████████░░░░░░░░░░░░░░   44.31 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Wednesday                172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Friday                   216 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Saturday                 225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sunday                   422 commits         ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Monday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Tuesday                  164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Thursday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Friday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Saturday                 225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Sunday                   422 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
 ```
 
 
@@ -98,39 +98,40 @@ Sunday                   422 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 36 mins      ████████████████████░░░░░   78.92 % 
-CSS                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+TypeScript               15 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.59 % 
+Go                       7 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+CSS                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Antigravity              16 hrs 37 mins      █████████████████████░░░░   84.02 % 
-VS Code                  3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Antigravity              26 hrs 20 mins      █████████████████████░░░░   85.99 % 
+VS Code                  4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           16 hrs 10 mins      ████████████████████░░░░░   81.79 % 
-big-data                 2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-openCV                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+lowcode-editor           17 hrs 9 mins       ██████████████░░░░░░░░░░░   56.00 % 
+lowercode-go-server      10 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   33.69 % 
+big-data                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+openCV                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 💻 Operating System: 
-Windows                  19 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 09/12/2025 18:53:55 UTC
+ Last Updated on 11/12/2025 18:56:47 UTC
 <!--END_SECTION:waka-->
   ---
 
