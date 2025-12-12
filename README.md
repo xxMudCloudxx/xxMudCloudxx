@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,24 +98,24 @@ Sunday                   422 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.59 % 
-Go                       7 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-CSS                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+TypeScript               14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.50 % 
+Go                       9 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+CSS                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🔥 Editors: 
-Antigravity              26 hrs 20 mins      █████████████████████░░░░   85.99 % 
-VS Code                  4 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Antigravity              28 hrs 24 mins      ██████████████████████░░░   89.08 % 
+VS Code                  3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           17 hrs 9 mins       ██████████████░░░░░░░░░░░   56.00 % 
-lowercode-go-server      10 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   33.69 % 
-big-data                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-openCV                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+lowcode-editor           17 hrs 9 mins       █████████████░░░░░░░░░░░░   53.81 % 
+lowercode-go-server      12 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   38.83 % 
+big-data                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+openCV                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Windows                  30 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +131,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2025 18:56:47 UTC
+ Last Updated on 12/12/2025 18:55:19 UTC
 <!--END_SECTION:waka-->
   ---
 
