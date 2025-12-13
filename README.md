@@ -55,15 +55,15 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.2 MB Used in GitHub's Storage 
  > 
-> 🏆 400 Contributions in the Year 2025
+> 🏆 402 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,21 +74,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-🌆 Daytime                275 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-🌃 Evening                524 commits         ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌙 Night                  705 commits         ███████████░░░░░░░░░░░░░░   44.31 % 
+🌞 Morning                102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+🌆 Daytime                313 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌃 Evening                586 commits         ████████░░░░░░░░░░░░░░░░░   32.07 % 
+🌙 Night                  826 commits         ███████████░░░░░░░░░░░░░░   45.21 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Tuesday                  164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Wednesday                187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Thursday                 158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Friday                   221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Saturday                 225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Sunday                   422 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Monday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Tuesday                  180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Wednesday                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Thursday                 176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Friday                   248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Saturday                 267 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Sunday                   499 commits         ███████░░░░░░░░░░░░░░░░░░   27.31 % 
 ```
 
 
@@ -98,24 +98,22 @@ Sunday                   422 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.50 % 
-Go                       9 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-CSS                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               13 hrs 15 mins      ███████████░░░░░░░░░░░░░░   42.72 % 
+Go                       10 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Markdown                 4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Bash                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-Antigravity              28 hrs 24 mins      ██████████████████████░░░   89.08 % 
-VS Code                  3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Antigravity              29 hrs 10 mins      ████████████████████████░   94.06 % 
+VS Code                  1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           17 hrs 9 mins       █████████████░░░░░░░░░░░░   53.81 % 
-lowercode-go-server      12 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   38.83 % 
-big-data                 1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-openCV                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+lowcode-editor           17 hrs 30 mins      ██████████████░░░░░░░░░░░   56.43 % 
+lowercode-go-server      13 hrs 30 mins      ███████████░░░░░░░░░░░░░░   43.57 % 
 
 💻 Operating System: 
-Windows                  31 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +129,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2025 18:55:19 UTC
+ Last Updated on 13/12/2025 18:49:41 UTC
 <!--END_SECTION:waka-->
   ---
 
