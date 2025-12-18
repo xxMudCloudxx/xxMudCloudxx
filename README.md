@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -98,22 +98,21 @@ Sunday                   499 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       10 hrs 35 mins      ████████████░░░░░░░░░░░░░   48.25 % 
-TypeScript               8 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.55 % 
-Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Bash                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Git Config               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+TypeScript               11 hrs 18 mins      ████████████████░░░░░░░░░   64.02 % 
+Go                       4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Antigravity              21 hrs 46 mins      █████████████████████████   99.19 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Antigravity              17 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowercode-go-server      12 hrs 56 mins      ███████████████░░░░░░░░░░   58.99 % 
-lowcode-editor           9 hrs               ██████████░░░░░░░░░░░░░░░   41.01 % 
+lowcode-editor           12 hrs 8 mins       █████████████████░░░░░░░░   68.76 % 
+lowercode-go-server      5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
 
 💻 Operating System: 
-Windows                  21 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +128,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 18:57:50 UTC
+ Last Updated on 18/12/2025 18:56:59 UTC
 <!--END_SECTION:waka-->
   ---
 
