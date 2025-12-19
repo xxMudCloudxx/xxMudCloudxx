@@ -98,21 +98,21 @@ Sunday                   499 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 18 mins      ████████████████░░░░░░░░░   64.02 % 
-Go                       4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript               11 hrs 18 mins      ██████████████████░░░░░░░   72.47 % 
+Go                       2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Git Config               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Editors: 
-Antigravity              17 hrs 39 mins      █████████████████████████   100.00 % 
+Antigravity              15 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           12 hrs 8 mins       █████████████████░░░░░░░░   68.76 % 
-lowercode-go-server      5 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+lowcode-editor           12 hrs 8 mins       ███████████████████░░░░░░   77.84 % 
+lowercode-go-server      3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
 
 💻 Operating System: 
-Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +128,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2025 18:56:59 UTC
+ Last Updated on 19/12/2025 18:55:15 UTC
 <!--END_SECTION:waka-->
   ---
 
