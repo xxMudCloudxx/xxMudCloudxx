@@ -98,23 +98,23 @@ Sunday                   499 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 25 mins       █████████████████████░░░░   83.97 % 
-Go                       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               3 hrs 14 mins       ██████████████████░░░░░░░   73.85 % 
+Go                       30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Git Config               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 🔥 Editors: 
-Antigravity              6 hrs 9 mins        ████████████████████░░░░░   80.44 % 
-VS Code                  1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Antigravity              2 hrs 53 mins       ████████████████░░░░░░░░░   65.93 % 
+VS Code                  1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           5 hrs               ████████████████░░░░░░░░░   65.41 % 
-big-data                 2 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-lowercode-go-server      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+big-data                 2 hrs 8 mins        ████████████░░░░░░░░░░░░░   48.87 % 
+lowcode-editor           1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   39.76 % 
+lowercode-go-server      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/12/2025 18:54:10 UTC
+ Last Updated on 25/12/2025 18:53:32 UTC
 <!--END_SECTION:waka-->
   ---
 
