@@ -98,24 +98,21 @@ Sunday                   499 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 4 mins        █████████████████░░░░░░░░   69.28 % 
-Go                       30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Git Config               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+TypeScript               1 hr 31 mins        ████████████████████░░░░░   79.31 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 13 mins       ██████████████████░░░░░░░   72.40 % 
-VS Code                  1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.60 % 
+Antigravity              58 mins             █████████████░░░░░░░░░░░░   50.24 % 
+VS Code                  57 mins             ████████████░░░░░░░░░░░░░   49.76 % 
 
 🐱‍💻 Projects: 
-big-data                 1 hr 59 mins        ███████████░░░░░░░░░░░░░░   44.87 % 
-lowcode-editor           1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
-lowercode-go-server      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-代码                       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+big-data                 1 hr 43 mins        ██████████████████████░░░   89.47 % 
+代码                       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 💻 Operating System: 
-Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -131,7 +128,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 18:52:16 UTC
+ Last Updated on 28/12/2025 18:53:24 UTC
 <!--END_SECTION:waka-->
   ---
 
