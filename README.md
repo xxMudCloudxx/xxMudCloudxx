@@ -98,21 +98,21 @@ Sunday                   499 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 31 mins        ████████████████████░░░░░   79.31 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+TypeScript               1 hr 25 mins        ████████████████████░░░░░   78.05 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Antigravity              58 mins             █████████████░░░░░░░░░░░░   50.24 % 
-VS Code                  57 mins             ████████████░░░░░░░░░░░░░   49.76 % 
+Antigravity              54 mins             █████████████░░░░░░░░░░░░   50.14 % 
+VS Code                  54 mins             ████████████░░░░░░░░░░░░░   49.86 % 
 
 🐱‍💻 Projects: 
-big-data                 1 hr 43 mins        ██████████████████████░░░   89.47 % 
-代码                       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+big-data                 1 hr 37 mins        ██████████████████████░░░   88.82 % 
+代码                       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -128,7 +128,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2025 18:53:24 UTC
+ Last Updated on 29/12/2025 18:54:28 UTC
 <!--END_SECTION:waka-->
   ---
 
