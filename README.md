@@ -55,6 +55,8 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -69,6 +71,48 @@
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+🌆 Daytime                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+🌃 Evening                593 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+🌙 Night                  833 commits         ███████████░░░░░░░░░░░░░░   44.98 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Tuesday                  188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Wednesday                210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Thursday                 179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   499 commits         ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Text                     14 mins             ████████████████░░░░░░░░░   62.64 % 
+TypeScript               7 mins              ████████░░░░░░░░░░░░░░░░░   31.18 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+
+🔥 Editors: 
+Antigravity              22 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+新建文件夹                    15 mins             █████████████████░░░░░░░░   68.82 % 
+lowcode-editor           7 mins              ████████░░░░░░░░░░░░░░░░░   31.18 % 
+
+💻 Operating System: 
+Windows                  22 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -82,7 +126,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 18:52:55 UTC
+ Last Updated on 04/01/2026 18:52:34 UTC
 <!--END_SECTION:waka-->
   ---
 
