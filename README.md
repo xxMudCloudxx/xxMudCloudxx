@@ -55,9 +55,9 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -126,7 +126,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:52:34 UTC
+ Last Updated on 06/01/2026 18:55:23 UTC
 <!--END_SECTION:waka-->
   ---
 
