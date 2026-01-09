@@ -55,7 +55,7 @@
 
   ### 📊 WakaTime
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -98,23 +98,23 @@ Sunday                   499 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               24 mins             █████████████░░░░░░░░░░░░   51.96 % 
-Text                     14 mins             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Markdown                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+TypeScript               44 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
+Markdown                 25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Git Config               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Text                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Antigravity              48 mins             █████████████████████████   100.00 % 
+Antigravity              1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lowcode-editor           25 mins             █████████████░░░░░░░░░░░░   52.84 % 
-新建文件夹                    15 mins             ████████░░░░░░░░░░░░░░░░░   32.55 % 
-lowercode-go-server      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+lowcode-editor           1 hr 12 mins        ██████████████████░░░░░░░   71.54 % 
+新建文件夹                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+lowercode-go-server      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2026 18:55:54 UTC
+ Last Updated on 09/01/2026 18:57:45 UTC
 <!--END_SECTION:waka-->
   ---
 
