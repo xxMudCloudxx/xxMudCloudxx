@@ -35,14 +35,15 @@
 
 ---
 
-  ### About My Github
+### About My Github
+
   <div align="center">
     <table style="width:100%;">
       <tr>
         <td align="center">
-          <img height='200' src="https://github-readme-stats.vercel.app/api?username=xxMudCloudxx&show_icons=true&theme=radical" /> </td>
+          <img height='200' src="https://github-readme-stats-ten-rust-yh0ebh8ki2.vercel.app/api?username=xxMudCloudxx&show_icons=true&theme=radical" /> </td>
         <td align="center">
-          <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxMudCloudxx&layout=compact&theme=radical" /> </td>
+          <img height='200' src="https://github-readme-stats-ten-rust-yh0ebh8ki2.vercel.app/api/top-langs/?username=xxMudCloudxx&layout=compact&theme=radical" /> </td>
       </tr>
       <tr>
         <td colspan="2" align="center">
@@ -51,88 +52,11 @@
     </table>
   </div>
 
+
 ---
 
-  ### 📊 WakaTime
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2019%20mins-blue?style=flat)
+### Future
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.2 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-🌆 Daytime                324 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-🌃 Evening                593 commits         ████████░░░░░░░░░░░░░░░░░   31.98 % 
-🌙 Night                  835 commits         ███████████░░░░░░░░░░░░░░   45.04 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Tuesday                  188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Wednesday                210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Thursday                 180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Friday                   251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Saturday                 271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Sunday                   499 commits         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               37 mins             ████████████░░░░░░░░░░░░░   47.09 % 
-Markdown                 25 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
-Git Config               16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-
-🔥 Editors: 
-Antigravity              1 hr 18 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-lowcode-editor           1 hr 5 mins         █████████████████████░░░░   83.17 % 
-lowercode-go-server      12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-
-💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
- Last Updated on 14/01/2026 18:58:48 UTC
-<!--END_SECTION:waka-->
-  ---
-
-  ### Future
   The journey of coding is a marathon, not a sprint. Excited for what's next! 🚀
 
   <p align="center">
