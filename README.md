@@ -10,7 +10,7 @@
   ---
 
   ### Hello World!  I am <b>xxMudCloudxx</b>
-
+    - A 2023-entry student majoring in Data Science and Big Data Technology at China University of Mining and Technology (CUMT).
   ---
   <!-- 贪吃蛇 -->
   
